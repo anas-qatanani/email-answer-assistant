@@ -91,7 +91,7 @@ window.RUNS = {
     "why": "draft ready for a person to send",
     "draft": {
      "found": true,
-     "draft": "If you order before 14:00 tomorrow, delivery to the Göteborg area (postcodes 40–43) is the next working day.",
+     "draft": "Hello Jonas,\n\nIf you order before 14:00 tomorrow, delivery to the Göteborg area (postcodes 40–43) is the next working day.\n\nBest regards,\nÄlvkant order desk",
      "used": [
       "delivery-terms#Delivery times"
      ],
@@ -150,7 +150,7 @@ window.RUNS = {
     "why": "draft ready for a person to send",
     "draft": {
      "found": true,
-     "draft": "Hej Maria,\n\nFör leverans till Uddevalla (Sverige) gäller 2–4 arbetsdagar med DB Schenker.\n\nFör en order på 900 kr till Sverige är fraktkostnaden 149 kr per order.",
+     "draft": "Hej Maria,\n\nFör leverans till Uddevalla (Sverige) gäller 2–4 arbetsdagar med DB Schenker.\n\nFör en order på 900 kr till Sverige är fraktkostnaden 149 kr per order.\n\nMed vänliga hälsningar,\nÄlvkant order desk",
      "used": [
       "delivery-terms#Delivery times",
       "delivery-terms#Shipping cost"
@@ -210,7 +210,7 @@ window.RUNS = {
     "why": "draft ready for a person to send",
     "draft": {
      "found": true,
-     "draft": "Hello Henrik, for an order of around 3 000 kr to Bergen, Norway, the shipping cost is 349 kr.",
+     "draft": "Hello Henrik,\n\nFor an order of around 3 000 kr to Bergen, Norway, the shipping cost is 349 kr.\n\nBest regards,\nÄlvkant order desk",
      "used": [
       "delivery-terms#Shipping cost"
      ],
@@ -328,7 +328,7 @@ window.RUNS = {
     "why": "draft ready for a person to send",
     "draft": {
      "found": true,
-     "draft": "Hello Fatima, you can pick up orders at our warehouse, Exportgatan 12, Göteborg, on weekdays between 07:00 and 16:00. Orders are ready 2 hours after you place your order.",
+     "draft": "Hello Fatima,\n\nYou can pick up orders at our warehouse, Exportgatan 12, Göteborg, on weekdays between 07:00 and 16:00. Orders are ready 2 hours after you place your order.\n\nBest regards,\nÄlvkant order desk",
      "used": [
       "delivery-terms#Pickup"
      ],
@@ -446,7 +446,7 @@ window.RUNS = {
     "why": "draft ready for a person to send",
     "draft": {
      "found": true,
-     "draft": "Yes, we ship to Denmark. Delivery to Denmark takes 4–6 working days.",
+     "draft": "Hello Sofia,\n\nYes, we ship to Denmark. Delivery to Denmark takes 4–6 working days.\n\nBest regards,\nÄlvkant order desk",
      "used": [
       "delivery-terms#Delivery times"
      ],
@@ -505,7 +505,7 @@ window.RUNS = {
     "why": "draft check failed (0.33)",
     "draft": {
      "found": true,
-     "draft": "Hej Pia Ström,\n\nEftersom ni sitter i Stockholm, tar leveransen 2–4 arbetsdagar med DB Schenker.\n\nMed vänliga hälsningar,\nÄlvkant order desk",
+     "draft": "Hej Pia,\n\nEftersom ni sitter i Stockholm, tar leveransen 2–4 arbetsdagar med DB Schenker.\n\nMed vänliga hälsningar,\nÄlvkant order desk",
      "used": [
       "delivery-terms#Delivery times"
      ],
@@ -564,7 +564,7 @@ window.RUNS = {
     "why": "draft ready for a person to send",
     "draft": {
      "found": true,
-     "draft": "For delivery in the Göteborg area (which includes Mölndal), the order must be in before 14:00 to receive next working day delivery.",
+     "draft": "Hello Leo,\n\nFor delivery in the Göteborg area (which includes Mölndal), the order must be in before 14:00 to receive next working day delivery.\n\nBest regards,\nÄlvkant order desk",
      "used": [
       "delivery-terms#Delivery times"
      ],
@@ -623,7 +623,7 @@ window.RUNS = {
     "why": "draft ready for a person to send",
     "draft": {
      "found": true,
-     "draft": "Hej Ida,\n\nFör en beställning på 1 200 kr till Jönköping gäller fraktkostnaden 149 kr per order inom Sverige.",
+     "draft": "Hej Ida,\n\nFör en beställning på 1 200 kr till Jönköping gäller fraktkostnaden 149 kr per order inom Sverige.\n\nMed vänliga hälsningar,\nÄlvkant order desk",
      "used": [
       "delivery-terms#Shipping cost"
      ],
@@ -682,7 +682,7 @@ window.RUNS = {
     "why": "draft ready for a person to send",
     "draft": {
      "found": true,
-     "draft": "Hello Mark, the price for a box of M10x50 hex bolts (steel 8.8, zinc) is 259 kr.",
+     "draft": "Hello Mark,\n\nThe price for a box of M10x50 hex bolts (steel 8.8, zinc) is 259 kr.\n\nBest regards,\nÄlvkant order desk",
      "used": [
       "price-list#Fasteners"
      ],
@@ -800,7 +800,7 @@ window.RUNS = {
     "why": "draft ready for a person to send",
     "draft": {
      "found": true,
-     "draft": "Hello Nina, the price for a 50 m roll of EKK 3G1.5 installation cable is 1 190 kr.",
+     "draft": "Hello Nina,\n\nThe price for a 50 m roll of EKK 3G1.5 installation cable is 1 190 kr.\n\nBest regards,\nÄlvkant order desk",
      "used": [
       "price-list#Cable and electrical"
      ],
@@ -918,7 +918,7 @@ window.RUNS = {
     "why": "draft ready for a person to send",
     "draft": {
      "found": true,
-     "draft": "Hello Ben, our cut-resistant work gloves (cut level C) come in size 9 or 10 and cost 89 kr per pair.",
+     "draft": "Hello Ben,\n\nOur cut-resistant work gloves (cut level C) come in size 9 or 10 and cost 89 kr per pair.\n\nBest regards,\nÄlvkant order desk",
      "used": [
       "price-list#Safety"
      ],
@@ -1036,7 +1036,7 @@ window.RUNS = {
     "why": "draft ready for a person to send",
     "draft": {
      "found": true,
-     "draft": "Thank you for your inquiry regarding a discount on an order of approximately 25,000 kr. We offer a 10% discount on orders over 20,000 kr excluding VAT.",
+     "draft": "Hello Raj,\n\nThank you for your inquiry regarding a discount on an order of approximately 25,000 kr. We offer a 10% discount on orders over 20,000 kr excluding VAT.\n\nBest regards,\nÄlvkant order desk",
      "used": [
       "price-list#Volume discount"
      ],
@@ -1272,7 +1272,7 @@ window.RUNS = {
     "why": "draft ready for a person to send",
     "draft": {
      "found": true,
-     "draft": "You may return unopened items within 30 days. Please contact us first, and we will send you a return label.",
+     "draft": "Hello Greg,\n\nYou may return unopened items within 30 days. Please contact us first, and we will send you a return label.\n\nBest regards,\nÄlvkant order desk",
      "used": [
       "returns#Returns and complaints"
      ],
@@ -1390,7 +1390,7 @@ window.RUNS = {
     "why": "draft ready for a person to send",
     "draft": {
      "found": true,
-     "draft": "Hello Amir, return shipping costs 99 kr, which will be deducted from your refund. It is free if we sent you the wrong item. Please note that you may return unopened items within 30 days, and we will send you a return label once you contact us.",
+     "draft": "Hello Amir,\n\nReturn shipping costs 99 kr, which will be deducted from your refund. It is free if we sent you the wrong item. Please note that you may return unopened items within 30 days, and we will send you a return label once you contact us.\n\nBest regards,\nÄlvkant order desk",
      "used": [
       "returns#Returns and complaints"
      ],
@@ -1449,7 +1449,7 @@ window.RUNS = {
     "why": "draft check failed (0.47)",
     "draft": {
      "found": true,
-     "draft": "Hej Jens,\n\nTyvärr kan öppnade kartonger med fästanordningar inte returneras.",
+     "draft": "Hej Jens,\n\nTyvärr kan öppnade kartonger med fästanordningar inte returneras.\n\nMed vänliga hälsningar,\nÄlvkant order desk",
      "used": [
       "returns#Returns and complaints"
      ],
@@ -1508,7 +1508,7 @@ window.RUNS = {
     "why": "draft ready for a person to send",
     "draft": {
      "found": true,
-     "draft": "Hello Paula, refunds are paid within 10 working days after we receive the return. \n\nBest regards,\nÄlvkant order desk",
+     "draft": "Hello Paula,\n\nRefunds are paid within 10 working days after we receive the return.\n\nBest regards,\nÄlvkant order desk",
      "used": [
       "returns#Returns and complaints"
      ],
@@ -1622,7 +1622,7 @@ window.RUNS = {
     "why": "draft check failed (0.46)",
     "draft": {
      "found": true,
-     "draft": "Hello Tim, we are sorry to hear that one box of junction boxes arrived crushed. Since the goods are damaged, please report this within 8 days with a photo. We will send a replacement at no cost to you.",
+     "draft": "Hello Tim,\n\nWe are sorry to hear that one box of junction boxes arrived crushed. Since the goods are damaged, please report this within 8 days with a photo. We will send a replacement at no cost to you.\n\nBest regards,\nÄlvkant order desk",
      "used": [
       "returns#Returns and complaints"
      ],
@@ -1740,7 +1740,7 @@ window.RUNS = {
     "why": "draft ready for a person to send",
     "draft": {
      "found": true,
-     "draft": "Dear Laura King, our payment terms for companies are 30 days net upon invoice. If you are a new customer, we will require a credit check before the first invoice. Please let us know if you would like to open a company account by sending your company name, organisation number, and invoice address to order@alvkant.example.",
+     "draft": "Hello Laura,\n\nOur payment terms for companies are 30 days net upon invoice. If you are a new customer, we will require a credit check before the first invoice. Please let us know if you would like to open a company account by sending your company name, organisation number, and invoice address to order@alvkant.example.\n\nBest regards,\nÄlvkant order desk",
      "used": [
       "payment-and-accounts#Payment and customer accounts"
      ],
@@ -1799,7 +1799,7 @@ window.RUNS = {
     "why": "draft ready for a person to send",
     "draft": {
      "found": true,
-     "draft": "Hej Rickard,\nJa, privatpersoner kan betala med Swish när de beställer.\n\nMed vänliga hälsningar,\nÄlvkant order desk",
+     "draft": "Hej Rickard,\n\nJa, privatpersoner kan betala med Swish när de beställer.\n\nMed vänliga hälsningar,\nÄlvkant order desk",
      "used": [
       "payment-and-accounts#Payment and customer accounts"
      ],
@@ -1858,7 +1858,7 @@ window.RUNS = {
     "why": "draft ready for a person to send",
     "draft": {
      "found": true,
-     "draft": "To open a company account, please send your company name, organisation number, and invoice address to order@alvkant.example.",
+     "draft": "Hello Victor,\n\nTo open a company account, please send your company name, organisation number, and invoice address to order@alvkant.example.\n\nBest regards,\nÄlvkant order desk",
      "used": [
       "payment-and-accounts#Payment and customer accounts"
      ],
@@ -1917,7 +1917,7 @@ window.RUNS = {
     "why": "draft ready for a person to send",
     "draft": {
      "found": true,
-     "draft": "Hej Elin,\n\nVid försenad betalning tillkommer en påminnelseavgift på 60 kr samt ränta enligt svensk räntelag.",
+     "draft": "Hej Elin,\n\nVid försenad betalning tillkommer en påminnelseavgift på 60 kr samt ränta enligt svensk räntelag.\n\nMed vänliga hälsningar,\nÄlvkant order desk",
      "used": [
       "payment-and-accounts#Payment and customer accounts"
      ],
@@ -1976,7 +1976,7 @@ window.RUNS = {
     "why": "draft ready for a person to send",
     "draft": {
      "found": true,
-     "draft": "Dear Hannah Fox,\n\nWe send invoices by email as PDF. E-invoice (Peppol) is available on request.\n\nBest regards,\nÄlvkant order desk",
+     "draft": "Hello Hannah,\n\nWe send invoices by email as PDF. E-invoice (Peppol) is available on request.\n\nBest regards,\nÄlvkant order desk",
      "used": [
       "payment-and-accounts#Payment and customer accounts"
      ],
@@ -2035,7 +2035,7 @@ window.RUNS = {
     "why": "draft ready for a person to send",
     "draft": {
      "found": true,
-     "draft": "Hej Mohammed,\n\nJa, e-faktura via Peppol är tillgänglig på begäran. För att öppna ett företagskonto skickar du ditt företagsnamn, organisationsnummer och faktureringsadress till order@alvkant.example.",
+     "draft": "Hej Mohammed,\n\nJa, e-faktura via Peppol är tillgänglig på begäran. För att öppna ett företagskonto skickar du ditt företagsnamn, organisationsnummer och faktureringsadress till order@alvkant.example.\n\nMed vänliga hälsningar,\nÄlvkant order desk",
      "used": [
       "payment-and-accounts#Payment and customer accounts"
      ],
@@ -2094,7 +2094,7 @@ window.RUNS = {
     "why": "draft ready for a person to send",
     "draft": {
      "found": true,
-     "draft": "Yes, new customers receive a credit check before the first invoice.",
+     "draft": "Hello Owen,\n\nYes, new customers receive a credit check before the first invoice.\n\nBest regards,\nÄlvkant order desk",
      "used": [
       "payment-and-accounts#Payment and customer accounts"
      ],
@@ -2212,7 +2212,7 @@ window.RUNS = {
     "why": "draft ready for a person to send",
     "draft": {
      "found": true,
-     "draft": "Our warehouse address is Exportgatan 12, 422 46 Hisings Backa, Göteborg.",
+     "draft": "Hello Simon,\n\nOur warehouse address is Exportgatan 12, 422 46 Hisings Backa, Göteborg.\n\nBest regards,\nÄlvkant order desk",
      "used": [
       "company-info#About us"
      ],
@@ -2326,7 +2326,7 @@ window.RUNS = {
     "why": "draft ready for a person to send",
     "draft": {
      "found": true,
-     "draft": "Thank you for your email. We are closed in week 29 (July) during the summer. Orders placed that week will ship in week 30.",
+     "draft": "Hello Adam,\n\nThank you for your email. We are closed in week 29 (July) during the summer. Orders placed that week will ship in week 30.\n\nBest regards,\nÄlvkant order desk",
      "used": [
       "company-info#Opening hours and holidays"
      ],
@@ -5196,7 +5196,7 @@ window.RUNS = {
     "why": "draft ready for a person to send",
     "draft": {
      "found": true,
-     "draft": "Hello Ivy, yes, you would qualify for a discount on 12 boxes of cable ties, as the volume discount offers 5% off order lines of 10 boxes or more of the same item. Please let us know when you are ready to place your order!",
+     "draft": "Hello Ivy,\n\nYes, you would qualify for a discount on 12 boxes of cable ties, as the volume discount offers 5% off order lines of 10 boxes or more of the same item. Please let us know when you are ready to place your order!\n\nBest regards,\nÄlvkant order desk",
      "used": [
       "price-list#Volume discount"
      ],
