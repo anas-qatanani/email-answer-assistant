@@ -4,6 +4,8 @@ Customer emails, answered from the firm's own documents. Small AI models run on 
 
 **Try it:** https://anas-qatanani.github.io/email-answer-assistant/
 
+**Watch it (32 s):** [demo.mp4](https://anas-qatanani.github.io/email-answer-assistant/demo.mp4)
+
 The firm (Älvkant Industridelar AB), the people and all 100 emails are made up. No client data.
 
 ## Result on 100 test emails
